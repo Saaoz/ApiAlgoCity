@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "algocity:block/stone_dirt"
+  }
+}
