@@ -1,2 +1,27 @@
-Copyright (c) 2025 
-All rights reserved.
+Copyright (c) 2025 Saaoz
+
+TOUS DROITS RÉSERVÉS
+
+1. **Propriété exclusive**  
+   Ce mod ("Algocity") et tout son contenu, y compris le code source, les assets et autres fichiers associés, sont la propriété exclusive de Saaoz.
+
+2. **Restrictions d'utilisation**  
+   - Il est strictement interdit de copier, modifier, distribuer, revendre ou utiliser ce mod, en tout ou en partie, sans autorisation écrite explicite de l'auteur, sauf dans les cas mentionnés à l'article 3.
+   - Ce mod ne peut être utilisé qu'à des fins personnelles et non commerciales, sauf autorisation explicite.
+
+3. **Utilisation dans les modpacks**  
+   - L'intégration de ce mod dans des modpacks est autorisée, **à condition que** :  
+     a) L'auteur (Saaoz) soit **mentionné clairement** dans les crédits du modpack.  
+     b) Une mention soit ajoutée sur une page accessible publiquement (par exemple, dans la description du modpack ou un fichier "credits.txt").  
+     c) L'auteur soit informé de l'intégration du mod dans le modpack (par exemple via email ou un message sur une plateforme publique).  
+
+4. **Utilisation commerciale**  
+   Toute utilisation commerciale, directe ou indirecte, de ce mod est formellement interdite sans l'autorisation écrite préalable de l'auteur.
+
+5. **Responsabilité**  
+   L'auteur ne peut être tenu responsable de tout dommage ou problème résultant de l'utilisation de ce mod.
+
+6. **Poursuites légales**  
+   Toute violation de ces termes pourra entraîner des poursuites judiciaires selon les lois en vigueur.
+
+Pour toute question, demande d'autorisation ou pour notifier l'utilisation dans un modpack, veuillez contacter via discord : papisaaoz
